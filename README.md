@@ -29,6 +29,9 @@ To use this registration form:
 
 No special installation is required. Simply ensure you have a modern web browser installed to view and interact with the form.
 
+## Credits
+This project was developed by Gabriel Ralph Christian. It is inspired by FreeCodeCamp's Responsive Web Design Certification.
+
 ## Contributing
 
 Contributions are welcome, especially in the following areas:
